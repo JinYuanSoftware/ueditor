@@ -17,8 +17,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": "*",
-        "codingyu/laravel-ueditor": "~2.0"
+        "encore/laravel-admin": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
